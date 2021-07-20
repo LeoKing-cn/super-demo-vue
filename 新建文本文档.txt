@@ -7,3 +7,9 @@ vue create super-demo-vue
 3.npm install 安装依赖
 4.npm run serve启动项目
 5.开始改造项目
+6. 去除.eslintrc.js中的'@vue/standard' 不然一直检测报错
+7.安装less  npm install less --save 
+npm install less less-loader --save 要注意less-loader版本过高会报错
+
+
+
